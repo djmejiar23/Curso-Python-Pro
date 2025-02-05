@@ -26,4 +26,4 @@ async def reto(ctx):
 async def on_ready():
     print(f'Bot conectado como {bot.user}')
 
-bot.run('MTMyODExMDU0MDM1NDA5NzI3NA.GDIMSh.8JoXb2wgtwskGZgFQVr9Nqrt_t0ft32JlWfK1I')  
+bot.run('token')  
